@@ -1,6 +1,6 @@
 name: myfont
 description: A new Flutter package project.
-version: 0.0.1
+version: 0.0.3
 author: minuthprom <minuthprom321@gmail.com>
 homepage: https://github.com/minuth/myfont
 
@@ -40,7 +40,7 @@ flutter:
   fonts:
     - family: ZCOOL
       fonts:
-        - asset: fonts/ZCOOLKuaiLe-Regular.ttf
+        - asset: packages/myfont/fonts/ZCOOLKuaiLe-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
