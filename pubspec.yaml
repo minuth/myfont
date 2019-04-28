@@ -1,8 +1,8 @@
 name: myfont
 description: A new Flutter package project.
 version: 0.0.1
-author: minuthprom
-homepage: 
+author: minuthprom <minuthprom321@gmail.com>
+homepage: https://github.com/minuth/myfont
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -37,10 +37,10 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
-  #   - family: Schyler
-  #     fonts:
-  #       - asset: fonts/Schyler-Regular.ttf
+  fonts:
+    - family: ZCOOL
+      fonts:
+        - asset: fonts/ZCOOLKuaiLe-Regular.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
